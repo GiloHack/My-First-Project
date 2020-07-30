@@ -6,6 +6,10 @@
   </head>
   <body>
     <h1>Warap</h1>
+    <hr>
+    <p>input goes here</p>
+    <input type="text"/>
     
     
     </body>
+</html>
