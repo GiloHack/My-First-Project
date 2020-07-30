@@ -1,2 +1,6 @@
 # READ ME
-Description : I am a coder,code teacher and code learner
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Description : I am a coder,code teacher and code learner</title>
+  </head>
